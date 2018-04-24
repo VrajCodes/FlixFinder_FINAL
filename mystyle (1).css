@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+    
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  display: block;
+  top: 150px;
+  left: 740px;
+}
+
+img {
+    max-width: 100%;
+    left: 25px;
+    
+    top: 275px;
+    /*z-index: -1;*/
+}
+
+h1 {
+    color: navy;
+    margin-left: 0px;
+}
